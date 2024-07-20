@@ -21,7 +21,7 @@ export default function Home() {
 
       <div>
         <Navbar />
-        <Hero />
+        
 
         <div className=' flex justify-evenly flex-wrap gap-10'>
           <div className=''>
