@@ -407,6 +407,7 @@ const HomeComnponent = () => {
                             if (e.target instanceof HTMLParagraphElement) {
                                 setPage(parseInt(e.target.innerText) || 0);
                                 setActive(parseInt(e.target.innerText) || 0);
+                               
 
                             }
 

@@ -69,7 +69,7 @@ const TrendingCoins = () => {
 
   return (
     <div className={"relative top-6 sm:mr-4"}> {   /* agar mobile pe center nahi hora toh remove this margin right  */}
-      <p className="text-2xl font-medium lg:left-36 md:left-24 mb-8 relative -top-2 interFont ml-6">Market Trend </p>
+      <p className="text-2xl font-medium lg:left-36 md:left-24 mb-8 relative -top-2 interFont ml-6">🔥 Trending Coins </p>
 
       <div className={styles.trendingHold}>
 

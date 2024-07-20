@@ -8,23 +8,23 @@ const Navbar = () => {
         <div className="container flex justify-between h-16 mx-auto">
           <div className="flex justify-between w-full">
             <Link  href="/" aria-label="Back to homepage" className="flex items-center p-2">
-              <p className=' font-semibold text-3xl'>LOGO</p>
+              <p className=' font-semibold text-3xl'>Cryptonite</p>
             </Link>
             <ul className="items-stretch hidden space-x-3 lg:flex">
               <li className="flex justify-between w-full">
                 <a rel="noopener noreferrer" className="flex cursor-pointer  items-center px-4 -mb-1 font-semibold dark:border-transparent">Home</a>
               </li>
               <li className="flex">
-                <a rel="noopener noreferrer" className="flex cursor-pointer  items-center px-4 -mb-1 font-semibold ">Company</a>
+                <a rel="noopener noreferrer" className="flex cursor-pointer  items-center px-4 -mb-1 font-semibold ">Markets</a>
               </li>
               <li className="flex">
-                <a rel="noopener noreferrer" className="flex  cursor-pointer items-center px-4 -mb-1 font-semibold dark:border-transparent">Services</a>
+                <a rel="noopener noreferrer" className="flex  cursor-pointer items-center px-4 -mb-1 font-semibold dark:border-transparent">Products</a>
               </li>
               <li className="flex">
-                <a rel="noopener noreferrer" className="flex cursor-pointer  items-center px-4 -mb-1 font-semibold dark:border-transparent">Blog</a>
+                <a rel="noopener noreferrer" className="flex cursor-pointer  items-center px-4 -mb-1 font-semibold dark:border-transparent">Trade</a>
               </li>
               <li className="flex">
-                <a rel="noopener noreferrer" className="flex cursor-pointer  items-center px-4 -mb-1 font-semibold dark:border-transparent">Contact</a>
+                <a rel="noopener noreferrer" className="flex cursor-pointer  items-center px-4 -mb-1 font-semibold dark:border-transparent">Learn</a>
               </li>
             </ul>
           </div>
