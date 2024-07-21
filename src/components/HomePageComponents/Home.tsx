@@ -330,13 +330,13 @@ const HomeComnponent = () => {
             {  /* MAIN CRYPTO TABLE  */}
 
 
-            <div className="overflow-x-auto">
+            <div className="overflow-x-auto ">
                 {cryptoData.length === 0 ?
                     <p className=' font-semibold flex justify-center items-center mb-4 gap-2'>
                         No Results Found  <RxCrossCircled className=' font-bold align-middle text-2xl text-red-600' />
                     </p>
                     :
-                    <table className="table cryptoDataMainTable mx-auto w-full">
+                    <table className="table cryptoDataMainTable bg-neutral-content mx-auto w-full">
                         {/* head */}
                         <thead>
                             <tr>

@@ -32,7 +32,7 @@ img {
 .navbarr {
   height: 6rem;
   margin-bottom: 0.01rem;
-  background-color: rgb(36, 137, 150);
+  background-color: rgb(52, 181, 198);
   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.14));
 
 }
@@ -145,7 +145,7 @@ body {
   color: rgb(221, 216, 198);
 }
 .footer{
-  background-color: rgba(44, 216, 153, 0.3);
+  background-color: rgba(58, 72, 95, 0.817);
 }
 
 .heroChildOneHold {
@@ -210,6 +210,7 @@ body {
 .navbarr2 {
   height: 6rem;
   margin-bottom: 0.01rem;
+ 
   background-color: rgb(36, 137, 150);
 }
 
